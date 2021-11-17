@@ -16,7 +16,7 @@
     "outputRoles": [
         {
             "name": "main_output",
-            "label": "Output dataset",
+            "label": "ODS dataset",
             "description": "Dataset to store the imported dataset from OpenDataSoft",
             "arity": "UNARY",
             "required": true,
@@ -27,7 +27,7 @@
     "params": [
         {
             "name": "dataset_id",
-            "label": "Dataset_id",
+            "label": "dataset_id",
             "type": "STRING",
             "description": "The Dataset id can be found on the ODS website",
             "mandatory": true
